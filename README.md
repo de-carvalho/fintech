@@ -1,6 +1,6 @@
 # Atividade Fintech
 
-Para visualizar o projeto, abra com no modo Live Server do Visual Studio code
+Para visualizar o projeto, abra com o modo Live Server do Visual Studio code
 
 # Tela de Login
 ![image](https://github.com/de-carvalho/fintech/assets/54815235/1f57fd39-a643-433e-90e0-b5cb050b9443)
